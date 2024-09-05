@@ -1,0 +1,30 @@
+.button .button-container{
+    padding: 15px 0;
+}
+
+.button .button-container button{
+    background-color: #B22222;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #DAA520;
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+}
+
+.button .button-container button:hover{
+    transform: scale(1.05); 
+}
+
+@media (max-width: 768px) {
+    .button .button-container{
+        text-align: center;
+    }
+
+    .button .button-container button{
+        padding: 13px;
+        font-size: 14px;
+    }
+}
