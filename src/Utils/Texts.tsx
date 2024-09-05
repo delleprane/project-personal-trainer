@@ -40,7 +40,7 @@ export const modules = [
         className: "module-presencial"
     },
     {
-        title: "Modelo Pem Grupo",
+        title: "Modelo em Grupo",
         content: "Ana Carolina é uma instrutora de Muay Thai com mais de [X] anos de experiência no mundo das artes marciais. Certificada e apaixonada pelo que faz, ela acredita que o Muay Thai vai além do ringue. Cada aula é projetada para desenvolver não só a força física, mas também a mentalidade de um verdadeiro lutador. Com [Nome da Professora], você aprenderá as técnicas corretas, ao mesmo tempo em que se desafia a ser a melhor versão de si mesmo.",
         type: "em grupo",
         className: "module-group"
