@@ -57,6 +57,10 @@
         justify-content: center;
     }
 
+    .classes-map .classes-map-container {
+        padding: 20px;
+    }
+
     .classes-map .classes-map-container .modules .module .info h2 {
         font-size: 22px;
     }
